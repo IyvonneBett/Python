@@ -11,8 +11,8 @@ for expo in range(16):
 
 import time
 
-for second in range(1, 6):
-    print(second, "Mississippi")
+for A in range(1, 6):
+    print(A, "Iyvonne Bett")
     time.sleep(1)
 	
-print("Ready or not, here I come!")
+print("Why are you running!")
